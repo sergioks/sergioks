@@ -9,10 +9,9 @@
 <div align="center">
   <img  src="https://i.imgur.com/TigLVbT.png" alt="snake" /></a>
 </div>
+<br/>
 
-<div>
-  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCM7N0X2303LPKv2gUUhE_jA?label=Suscribete!&link=https%3A%2F%2Fwww.youtube.com%2F%40sergioksyt)
-</div>
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCM7N0X2303LPKv2gUUhE_jA?label=Suscribete!&link=https%3A%2F%2Fwww.youtube.com%2F%40sergioksyt)
 
 <!--
 **sergioks/sergioks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
