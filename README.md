@@ -58,8 +58,9 @@
   ![Static Badge](https://img.shields.io/badge/San%20Andreas-grey?style=for-the-badge&logoColor=white&label=MTA&labelColor=%23577bfa)
   ![Static Badge](https://img.shields.io/badge/Project%20Zomboid-grey?style=for-the-badge&logoColor=white&label=PZ&labelColor=%238a0000)
   ![Static Badge](https://img.shields.io/badge/MINECRAFT-grey?style=for-the-badge&logoColor=white&label=MC&labelColor=%2300940c)
-  
 
+  <br />
+  Y mucho mas. <i>"Si se puede hacer, se puede aprender"</i>
   
 </div>
 <!-- x -->
