@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -13,6 +13,7 @@
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCM7N0X2303LPKv2gUUhE_jA?label=Suscribete!&link=https%3A%2F%2Fwww.youtube.com%2F%40sergioksyt)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <!--
 **sergioks/sergioks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
