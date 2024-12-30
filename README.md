@@ -5,12 +5,12 @@
   <img  src="https://i.imgur.com/TigLVbT.png" alt="snake" /></a>
 </div>
 <br/>
-<!-- x -->
 
   ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCM7N0X2303LPKv2gUUhE_jA?style=flat&label=YouTube&link=https%3A%2F%2Fwww.youtube.com%2F%40sergioksyt%3Fsub_confirmation%3D1)
+  ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCM7N0X2303LPKv2gUUhE_jA?style=flat&label=Visitas&link=https%3A%2F%2Fwww.youtube.com%2F%40Sergioksyt)
   ![GitHub followers](https://img.shields.io/github/followers/sergioks?style=flat&label=GitHub)
-  
-<!-- x -->
+  ![Twitch Status](https://img.shields.io/twitch/status/srsergioks?style=flat&label=Twitch&color=purple)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <div id="user-content-toc">
   <ul align="left"> <summary><h2 style="display: inline-block">Sobre mi</h2></summary> </ul>
@@ -20,13 +20,10 @@
   <li>🫖 Modelador 3D (principiante)</li>
   <li>📈 Estudiante de Social Media Marketing</li>
 </div>
-<!-- x -->
 <br/>
-<!-- x -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <div id="user-content-toc">
   <ul align="left"> <summary><h2 style="display: inline-block">Habilidades</h2></summary> </ul>
-  
   <h3 style="display: inline-block">Lenguajes</h3>
   
   ![Static Badge](https://img.shields.io/badge/LUA-grey?style=for-the-badge&logo=lua&logoColor=white&labelColor=blue)
@@ -60,21 +57,19 @@
   ![Static Badge](https://img.shields.io/badge/MINECRAFT-grey?style=for-the-badge&logoColor=white&label=MC&labelColor=%2300940c)
 
   <br />
-  Y mucho mas. <i>"Si se puede hacer, se puede aprender"</i>
-  
+  Y mucho mas. <i>"Si se puede hacer, se puede aprender"</i>  
 </div>
-<!-- x -->
 <br/>
-<!-- x -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <div id="user-content-toc">
   <ul align="left"> <summary><h2 style="display: inline-block">Contacto y Soporte</h2></summary> </ul>
-  
-  ![Static Badge](https://img.shields.io/badge/Correo%20Freelance-grey?style=for-the-badge&logo=gmail&logoColor=white&label=SERGIOKS.OFICIAL%40GMAIL.COM&labelColor=%23FF0000&link=mailto%3Asergioks.oficial%40gmail.com)
 
-
+  ![Static Badge](https://img.shields.io/badge/FACEBOOK-gray?style=for-the-badge&logo=facebook&logoColor=white&labelColor=blue&link=https%3A%2F%2Fwww.facebook.com%2Fsergioksyt)
+  ![Static Badge](https://img.shields.io/badge/TWITCH-gray?style=for-the-badge&logo=twitch&logoColor=white&labelColor=purple&link=https%3A%2F%2Fwww.twitch.tv%2Fsrsergioks)
+  ![Static Badge](https://img.shields.io/badge/INSTAGRAM-gray?style=for-the-badge&logo=instagram&logoColor=white&labelColor=pink&link=https%3A%2F%2Fwww.instagram.com%2Fsergiioks%2F)
   <br/>
-  
+  ![Static Badge](https://img.shields.io/badge/Correo%20Freelance-grey?style=for-the-badge&logo=gmail&logoColor=white&label=SERGIOKS.OFICIAL%40GMAIL.COM&labelColor=%23FF0000&link=mailto%3Asergioks.oficial%40gmail.com)
+  <br/>
   ![Static Badge](https://img.shields.io/badge/Donacion%20PayPal-grey?style=for-the-badge&logo=paypal&logoColor=white&labelColor=blue&link=https%3A%2F%2Fwww.paypal.me%2Fsergioksyt)
   ![Static Badge](https://img.shields.io/badge/Donacion%20KOFI-grey?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=blue&link=https%3A%2F%2Fko-fi.com%2Fsergioks)
 
