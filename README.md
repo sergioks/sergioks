@@ -9,7 +9,7 @@
 </div>
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCM7N0X2303LPKv2gUUhE_jA?style=flat&label=YouTube&link=https%3A%2F%2Fwww.youtube.com%2F%40sergioksyt%3Fsub_confirmation%3D1)
-[![GitHub followers](https://img.shields.io/github/followers/sergioks?style=for-the-badge&label=GitHub)](https://img.shields.io/github/followers/sergioks?style=flat)
+![GitHub followers](https://img.shields.io/github/followers/sergioks?style=flat&label=GitHub)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <div id="user-content-toc">
