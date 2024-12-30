@@ -7,7 +7,6 @@
 
   <img  src="https://i.imgur.com/TigLVbT.png" alt="snake" /></a>
 </div>
-<br/>
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCM7N0X2303LPKv2gUUhE_jA?label=Suscribete!&link=https%3A%2F%2Fwww.youtube.com%2F%40sergioksyt?sub_confirmation=1)
 ![GitHub followers](https://img.shields.io/github/followers/sergioks?link=https%3A%2F%2Fgithub.com%2Fsergioks)
