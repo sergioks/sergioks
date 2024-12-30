@@ -19,7 +19,7 @@
 
 <div id="user-content-toc">
   <ul align="left"> <summary><h1 style="display: inline-block">Sobre mi</h1></summary> </ul>
-  <a>Mi nombre es Sergio R. Galindez C, </a>
+  Mi nombre es Sergio R. Galindez C,
 </div>
 
 <!--
