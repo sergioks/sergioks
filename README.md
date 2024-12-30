@@ -4,9 +4,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola, soy Sergioks 👋</h1></summary>
   </ul>
-</div>
 
-<div align="center">
   <img  src="https://i.imgur.com/TigLVbT.png" alt="snake" /></a>
 </div>
 <br/>
@@ -26,6 +24,8 @@
   <li>Item 1</li>
   <li>Item 1</li>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <!--
 **sergioks/sergioks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
