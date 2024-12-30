@@ -16,12 +16,10 @@
 
 <div id="user-content-toc">
   <ul align="left"> <summary><h2 style="display: inline-block">Sobre mi</h2></summary> </ul>
-  <li>Item 1</li>
-  <li>Item 1</li>
-  <li>Item 1</li>
-  <li>Item 1</li>
-  <li>Item 1</li>
-  <li>Item 1</li>
+  <li>🧑🏻‍💻 Full Stack Developer</li>
+  <li>💻 Creador de Contenido</li>
+  <li>🎮 Modder de Videojuegos</li>
+  <li>🫖 Modelador Web (principiante)</li>
 </div>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
