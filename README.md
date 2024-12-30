@@ -24,7 +24,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <div id="user-content-toc">
   <ul align="left"> <summary><h2 style="display: inline-block">Habilidades</h2></summary> </ul>
-  
+  ![Static Badge](https://img.shields.io/badge/PHP5-you_like?style=for-the-badge&logo=lua&label=&color=%238993be)
+
 </div>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
