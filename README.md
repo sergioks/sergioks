@@ -19,8 +19,9 @@
 
 <div id="user-content-toc">
   <ul align="left"> <summary><h1 style="display: inline-block">Sobre mi</h1></summary> </ul>
-  <li>...</li>
+  <li>Mi nombre es Sergio R. Galindez C, </li>
 </div>
+
 <!--
 **sergioks/sergioks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
