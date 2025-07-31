@@ -6,7 +6,7 @@
 <h3 align="center">You can call me Sergioks</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/TigLVbT.png" style="border-radius: 10px;">
+  <img src="https://i.imgur.com/TigLVbT.png" width="250" style="border-radius: 10px;">
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@
 
 | Category | Skills |
 |----------|--------|
-| **Development** | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FF0000?style=flat&logo=xampp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) |
+| **Development** | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FF0000?style=flat&logo=xampp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=flat&logo=unreal-engine&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) |
 | **Databases** | ![DB Browser](https://img.shields.io/badge/DB_Browser_for_SQLite-217CA3?style=flat&logo=sqlite&logoColor=white) |
 | **Editing** | ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=black) ![GIMP](https://img.shields.io/badge/GIMP-524C48?style=flat&logo=gimp&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-000000?style=flat&logo=blender&logoColor=white) |
 | **Streaming** | ![OBS Studio](https://img.shields.io/badge/OBS_Studio-272935?style=flat&logo=obs-studio&logoColor=white) ![Vegas Pro](https://img.shields.io/badge/Vegas_Pro-00558C?style=flat&logo=vegaspro&logoColor=white) |
