@@ -6,7 +6,7 @@
 <h3 align="center">You can call me Sergioks</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/TigLVbT.png" width="250" style="border-radius: 10px;">
+  <img src="https://i.imgur.com/TigLVbT.png" style="border-radius: 10px;">
 </p>
 
 <p align="center">
